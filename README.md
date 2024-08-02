@@ -32,6 +32,16 @@ Proje çalıştırıldığında, okuduğunuz kolayca kitapları ekleyebilirsiniz
 ![Kitaplar-m Kullanım GIF'i](gif.gif)
 
 
+# Netlify Deploy
+
+URL: https://harmonious-sundae-689f90.netlify.app/
+
+# Mobil Uyumlu
+
+
+ ![IOS](mobil.PNG)
+
+
 
 ## Lisans
 
