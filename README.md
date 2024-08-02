@@ -2,7 +2,9 @@
 
 Bu repo, okuduğunuz kitapları dijital ortamda kayıt altına alabileceğiniz bir **Real Time Database** projesini içermektedir.
 
-![Kitaplar-m Logo](link-to-your-logo-image.jpg)
+# Pipeline
+
+![Pipeline](pipeline.png)
 
 ## Kurulum
 
@@ -15,18 +17,19 @@ Bu repo, okuduğunuz kitapları dijital ortamda kayıt altına alabileceğiniz b
 
 2. **index.js içerisine Firebase konfigrasyon niteliklerini girin.**
 
-3. **index.html dosyasını çalıştırın.**
+    Firebase hesabı açın, yeni proje oluşturun ve aşağıdaki adımları takip edin.
+   ![1](firebase1.PNG)
+   ![2](firebase2.PNG)
+   
 
-    ```bash
-    # Eğer bir sunucu kurulu değilse
-    python -m http.server
-    ```
+4. **index.html dosyasını çalıştırın.**
+
 
 ## Kullanım
 
 Proje çalıştırıldığında, okuduğunuz kolayca kitapları ekleyebilirsiniz.
 
-![Kitaplar-m Kullanım GIF'i](link-to-your-gif.gif)
+![Kitaplar-m Kullanım GIF'i](gif.gif)
 
 
 
