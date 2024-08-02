@@ -1,0 +1,76 @@
+body {
+    margin: 0 auto;
+    padding: 10px;
+    font-family: sans-serif,  Arial, Helvetica;
+    max-width: 302px;
+}
+
+label {
+    
+    color: #89a0a9;
+    font-weight: 900;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #89a0a9;
+    margin-bottom: 4px;
+}
+
+button {
+    background: #00a3e9;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #89a0a9;
+    font-weight: bold;
+}
+
+#delete-btn {
+    background: rgba(235, 15, 15, 0.352);
+    color: #000000;
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #5f9341;
+}
+
+#footerFream{
+    border-color: black;
+    border-width: 1px; /* Border kalınlığı */
+    border-style: solid; /* Border stili: dashed, dotted, solid, vb. */
+    
+    border-radius: 3px; /* Köşeleri yuvarlatma */
+
+    
+    padding: 20px; /* İçerik ile sınır arasındaki boşluk */
+    margin: 20px; /* Diğer öğeler ile boşluk */
+
+}
+
+#fream{
+    border-color: black;
+    border-width: 1px; /* Border kalınlığı */
+    border-style: solid; /* Border stili: dashed, dotted, solid, vb. */
+    
+    border-radius: 3px; /* Köşeleri yuvarlatma */
+  
+    padding: 20px; /* İçerik ile sınır arasındaki boşluk */
+    margin: 20px; /* Diğer öğeler ile boşluk */
+  
+}
+
+.inlineElements {
+    padding: 10px; /* İçerik ile içerik sınırı arasındaki boşluk */
+}
