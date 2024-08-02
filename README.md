@@ -39,7 +39,7 @@ URL: https://harmonious-sundae-689f90.netlify.app/
 # Mobil Uyumlu
 
 
- ![IOS](mobil.PNG)
+ ![IOS](mobil.jpeg)
 
 
 
