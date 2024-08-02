@@ -8,7 +8,7 @@ import { getDatabase,
 
 const firebaseConfig = {
    
-    databaseURL: "https://trackerapp-9ab62-default-rtdb.asia-southeast1.firebasedatabase.app",
+    databaseURL: "Resimdeki Adımları Takip Ederek Kendi Database URL'inizi Ekleyin",
    
   };
 
